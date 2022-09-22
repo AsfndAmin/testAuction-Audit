@@ -94,7 +94,7 @@ Line 112
 - Apply the check-effects-interactions pattern.
 - Favor pull over push strategy for external calls(low).
 
-1.
+
 # **Conclusion**
 
 The smart contract has been audited and 5 high severity issues found that needs to be resolved before deploying.
